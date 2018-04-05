@@ -1,5 +1,7 @@
 Textual and Graph Embedding Neural Recommender - TGENR
 ------------------------------------------------------------------------------------------
+### https://github.com/omer-tal/cp640_tgenr
+
 ### Author: Omer Tal
 
 ### Requirements
