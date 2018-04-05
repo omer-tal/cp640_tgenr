@@ -1,7 +1,7 @@
 #Textual and Graph Embedding Neural Recommender - TGENR
-
-#Author: Omer Tal
 ------------------------------------------------------------------------------------------
+#Author: Omer Tal
+
 ### Requirements
 To run the model, the following enviornment is required:
 
